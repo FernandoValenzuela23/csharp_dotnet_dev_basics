@@ -1,0 +1,17 @@
+C:\Projects\DotNet\ProgrammingBasics\FluentValidationDemo\obj\Debug\net8.0\FluentValidationDemo.csproj.AssemblyReference.cache
+C:\Projects\DotNet\ProgrammingBasics\FluentValidationDemo\obj\Debug\net8.0\FluentValidationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DotNet\ProgrammingBasics\FluentValidationDemo\obj\Debug\net8.0\FluentValidationDemo.AssemblyInfoInputs.cache
+C:\Projects\DotNet\ProgrammingBasics\FluentValidationDemo\obj\Debug\net8.0\FluentValidationDemo.AssemblyInfo.cs
+C:\Projects\DotNet\ProgrammingBasics\FluentValidationDemo\obj\Debug\net8.0\FluentValidationDemo.csproj.CoreCompileInputs.cache
+C:\Projects\DotNet\ProgrammingBasics\FluentValidationDemo\bin\Debug\net8.0\FluentValidationDemo.exe
+C:\Projects\DotNet\ProgrammingBasics\FluentValidationDemo\bin\Debug\net8.0\FluentValidationDemo.deps.json
+C:\Projects\DotNet\ProgrammingBasics\FluentValidationDemo\bin\Debug\net8.0\FluentValidationDemo.runtimeconfig.json
+C:\Projects\DotNet\ProgrammingBasics\FluentValidationDemo\bin\Debug\net8.0\FluentValidationDemo.dll
+C:\Projects\DotNet\ProgrammingBasics\FluentValidationDemo\bin\Debug\net8.0\FluentValidationDemo.pdb
+C:\Projects\DotNet\ProgrammingBasics\FluentValidationDemo\bin\Debug\net8.0\FluentValidation.dll
+C:\Projects\DotNet\ProgrammingBasics\FluentValidationDemo\obj\Debug\net8.0\FluentVa.780135CD.Up2Date
+C:\Projects\DotNet\ProgrammingBasics\FluentValidationDemo\obj\Debug\net8.0\FluentValidationDemo.dll
+C:\Projects\DotNet\ProgrammingBasics\FluentValidationDemo\obj\Debug\net8.0\refint\FluentValidationDemo.dll
+C:\Projects\DotNet\ProgrammingBasics\FluentValidationDemo\obj\Debug\net8.0\FluentValidationDemo.pdb
+C:\Projects\DotNet\ProgrammingBasics\FluentValidationDemo\obj\Debug\net8.0\FluentValidationDemo.genruntimeconfig.cache
+C:\Projects\DotNet\ProgrammingBasics\FluentValidationDemo\obj\Debug\net8.0\ref\FluentValidationDemo.dll

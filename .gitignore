@@ -1,0 +1,67 @@
+# Build results
+ConcurrencyManage/[Dd]ebug/
+ConcurrencyManage/[Dd]ebugPublic/
+ConcurrencyManage/[Rr]elease/
+ConcurrencyManage/[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+ConcurrencyManage/[Bb]in/
+ConcurrencyManage/[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+ConcurrencyManage/bin/
+ConcurrencyManage/obj/
+
+CQRSDesignPattern/bin/
+CQRSDesignPattern/obj/
+
+CSharpNewThings/bin/
+CSharpNewThings/obj/
+
+oop/bin/
+oop/obj/
+
+ConcurrencyManage/bin/
+ConcurrencyManage/obj/
+
+
+# Visual Studio cache/options
+.vs/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ReSharper
+.idea/
+*.sln.iml
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Test results
+TestResults/
+*.trx
+
+# Coverage reports
+OpenCover/
+
+# Local environment
+.env
+.env.local
+appsettings.local.json
