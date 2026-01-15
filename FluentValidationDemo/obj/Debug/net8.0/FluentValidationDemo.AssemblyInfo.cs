@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FluentValidationDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9aed86eded9951f462ac650faae5726088d51144")]
 [assembly: System.Reflection.AssemblyProductAttribute("FluentValidationDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FluentValidationDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -29,6 +29,9 @@ oop/obj/
 ConcurrencyManage/bin/
 ConcurrencyManage/obj/
 
+CancellationToken/bin/
+CancellationToken/obj/
+
 
 # Visual Studio cache/options
 .vs/
